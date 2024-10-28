@@ -1,0 +1,27 @@
+Herramientas usadas en proceso de Ethical Hacking, junta con la documentación correspondiente.
+
+[Enumeración]
+https://github.com/smicallef/spiderfoot
+https://thehackerway.es/2022/05/26/spiderfoot-una-herramienta-completa-para-osint-y-ciberinteligencia/
+https://www.redeszone.net/tutoriales/seguridad/shodan-busqueda-hacking/
+
+[Scanning]
+https://nmap.org/zenmap/
+https://nmap.org/man/es/man-examples.html
+https://dev.to/enter?state=new-user&bb=120659
+
+[Explotación]
+https://revista.seguridad.unam.mx/numero-19/pruebas-de-penetraci%C3%B3n-para-principiantes-explotando-una-vulnerabilidad-con-metasploit-fra
+https://medium.com/@S3Curiosity/mastering-metasploit-a-beginners-guide-to-msfconsole-basic-commands-130ff3dc46ef
+https://revista.seguridad.unam.mx/numero-19/pruebas-de-penetraci%C3%B3n-para-principiantes-explotando-una-vulnerabilidad-con-metasploit-fra
+
+
+
+[Preparación laboratorio con Docker]
+https://thehackerway.es/2024/01/29/monta-tu-entorno-para-hacking-web-con-docker/
+https://thehackerway.es/2022/10/19/como-a-utilizar-docker-sin-conocimientos-previos-parte-1-de-2/
+
+
+[Owasp]
+https://owasp.org/www-project-mobile-app-security/
+https://mas.owasp.org/MASVS/
